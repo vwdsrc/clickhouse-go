@@ -6,8 +6,8 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/ClickHouse/clickhouse-go/lib/cityhash102"
-	"github.com/ClickHouse/clickhouse-go/lib/lz4"
+	"github.com/vwdsrc/clickhouse-go/lib/cityhash102"
+	"github.com/vwdsrc/clickhouse-go/lib/lz4"
 )
 
 type compressWriter struct {

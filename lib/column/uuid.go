@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/ClickHouse/clickhouse-go/lib/binary"
+	"github.com/vwdsrc/clickhouse-go/lib/binary"
 )
 
 const (

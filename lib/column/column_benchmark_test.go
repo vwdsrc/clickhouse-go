@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/lib/binary"
+	"github.com/vwdsrc/clickhouse-go/lib/binary"
 )
 
 func Benchmark_Column_Int8(b *testing.B) {

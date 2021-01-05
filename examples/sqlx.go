@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/jmoiron/sqlx"
-	"github.com/ClickHouse/clickhouse-go"
+	"github.com/vwdsrc/clickhouse-go"
 )
 
 func main() {

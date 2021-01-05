@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go"
-	"github.com/ClickHouse/clickhouse-go/lib/column"
-	"github.com/ClickHouse/clickhouse-go/lib/types"
+	"github.com/vwdsrc/clickhouse-go"
+	"github.com/vwdsrc/clickhouse-go/lib/column"
+	"github.com/vwdsrc/clickhouse-go/lib/types"
 	"github.com/stretchr/testify/assert"
 )
 

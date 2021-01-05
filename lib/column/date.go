@@ -3,7 +3,7 @@ package column
 import (
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/lib/binary"
+	"github.com/vwdsrc/clickhouse-go/lib/binary"
 )
 
 type Date struct {
